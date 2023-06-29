@@ -1,0 +1,429 @@
+ID,Title,Pillar,Instructor,Categories,Difficulty,Difficulty_Num,Duration,Duration_Num,Require_Movement,Require_Movement_Num,Tags,Source,Type,Audio,Recipe,Text,Video,Visualization,Activity,Beauty,Nutrition,Rest
+14,a comprehensive guide to essential vitamins and minerals,nutrition,iain mcbride,education,intermediate,2,6-15 min,3,no,0.0,"Guide, Wellness, Education, Comprehensive, Nutrition, Minerals, Essential, Vitamins, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+122,a comprehensive guide to nutritional balance,nutrition,jess vergeer,education,intermediate,2,6-15 min,3,no,0.0,"Guide, Wellness, Education, Comprehensive, Nutrition, Balance, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+352,a comprehensive guide to nutritional basics,nutrition,jess vergeer,education,intermediate,2,6-15 min,3,no,0.0,"Guide, Wellness, Education, Comprehensive, Nutrition, Basics, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+280,a comprehensive guide to nutritional essentials,nutrition,jess vergeer,education,intermediate,2,6-15 min,3,no,0.0,"Guide, Wellness, Education, Essential, Comprehensive, Nutrition, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+174,a comprehensive guide to vitamins and minerals,nutrition,iain mcbride,education,intermediate,2,6-15 min,3,no,0.0,"Guide, Wellness, Education, Comprehensive, Nutrition, Minerals, Vitamins, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+289,advanced hiit workout challenge,activity,mark boateng,fitness,expert,3,30+ min,5,yes,1.0,"Challenge, Hiit, Fitness",mockup,video,0,0,0,1,0,1,0,0,0
+121,advanced strength training routine,activity,bao,fitness,expert,3,30+ min,5,yes,1.0,"Training, Strength, Routine",mockup,video,0,0,0,1,0,1,0,0,0
+16,advanced yoga flow,"activity, rest",jess vergeer,fitness,expert,3,30+ min,5,yes,1.0,"Strength, Flexibility, Balance",mockup,video,0,0,0,1,0,1,0,0,1
+12,affirmations for boosting self-confidence,beauty,bao,affirmation,beginner,1,1-5 min,2,no,0.0,"Growth, Self-confidence, Affirmation, Positive, Personal development, Boosting, Empowerment, Esteem",mockup,audio,1,0,0,0,0,0,1,0,0
+161,affirmations for building confidence,beauty,"jess vergeer, iain mcbride",affirmation,beginner,1,1-5 min,2,no,0.0,"Growth, Self-esteem, Positive, Building, Personal development, Confidence, Motivation, Empowerment",mockup,audio,1,0,0,0,0,0,1,0,0
+43,affirmations for cultivating self-love,beauty,jess vergeer,affirmation,beginner,1,1-5 min,2,no,0.0,"Growth, Affirmation, Self-love, Positive, Personal development, Cultivating, Empowerment, Esteem",mockup,audio,1,0,0,0,0,0,1,0,0
+186,affirmations for embracing self-love,beauty,bao,affirmation,beginner,1,1-5 min,2,no,0.0,"Growth, Affirmation, Empowerment, Self-love, Positive, Personal development, Confidence, Embracing",mockup,audio,1,0,0,0,0,0,1,0,0
+25,affirmations for self-esteem,beauty,bao,affirmation,beginner,1,1-5 min,2,no,0.0,"Positive, Confidence, Self-esteem",mockup,audio,1,0,0,0,0,0,1,0,0
+76,affirmations for a positive morning,beauty,julie chinmayi,affirmation,beginner,1,<1 min (shorts),1,no,0.0,"Morning, Day, Positive, Energyy, Sunrise, Motivation",mockup,"audio, text",1,0,1,0,0,0,1,0,0
+283,an in-depth guide to essential nutrients,nutrition,jess vergeer,education,intermediate,2,6-15 min,3,no,0.0,"Guide, Wellness, Education, Nutrition, In-depth, Essential, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+377,an in-depth guide to vitamins and minerals,nutrition,"jess vergeer, iain mcbride",education,intermediate,2,6-15 min,3,no,0.0,"Guide, Wellness, Education, Nutrition, Minerals, In-depth, Vitamins, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+364,begin your day with empowering affirmations,beauty,sophon,affirmation,beginner,1,<1 min (shorts),1,no,0.0,"Morning, Begin, Empowerment, Day, Affirmation, Positive, Energyy, Motivation",mockup,"audio, text",1,0,1,0,0,0,1,0,0
+246,body positivity affirmations,beauty,iain mcbride,affirmation,beginner,1,1-5 min,2,no,0.0,"Body positive, Self-love, Confidence",mockup,audio,1,0,0,0,0,0,1,0,0
+253,boosting positivity with daily affirmations,beauty,walerija,affirmation,beginner,1,1-5 min,2,no,0.0,"Daily, Growth, Affirmation, Positive, Personal development, Boosting, Empowerment, Esteem",mockup,audio,1,0,0,0,0,0,1,0,0
+213,building self-esteem with positive affirmations,beauty,jess vergeer,affirmation,beginner,1,1-5 min,2,no,0.0,"Growth, Self-esteem, Affirmation, Building, Positive, Personal development, Confidence, Empowerment",mockup,audio,1,0,0,0,0,0,1,0,0
+409,cardio dance workout,activity,walerija,fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Fun, Dance, Cardio",mockup,video,0,0,0,1,0,1,0,0,0
+274,cardio kickboxing workout,activity,walerija,fitness,intermediate,2,30+ min,5,yes,1.0,"High intensity, Cardio, Kickboxing",mockup,video,0,0,0,1,0,1,0,0,0
+296,cultivating positivity with daily affirmations,beauty,bao,affirmation,beginner,1,1-5 min,2,no,0.0,"Daily, Growth, Affirmation, Positive, Personal development, Cultivating, Empowerment, Esteem",mockup,audio,1,0,0,0,0,0,1,0,0
+276,daily mindfulness practice techniques,"beauty, rest",ola kwiatkowska,meditation and mindfulness,intermediate,2,15 - 30 min,4,no,0.0,"Daily, Awareness, Techniques, Peace, Calm, Presence, Mindfulness, Practice",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+34,deep relaxation guided meditation,"beauty, rest",julie chinmayi,"meditation, mind and body",beginner,1,15 - 30 min,4,no,0.0,"Yoga, Relaxation, Mindfulness",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+288,deep sleep music therapy,rest,ola kwiatkowska,nature sounds and ambient music,beginner,1,30+ min,5,no,0.0,"Music, Sleep, Therapy",mockup,audio,1,0,0,0,0,0,0,0,1
+37,delicious and nutritious plant-based recipes,nutrition,iain mcbride,recipes,beginner,1,6-15 min,3,no,0.0,"Kitchen, Vegan, Delicious, Cooking, Plant-based, Nutrition, Recipe, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+212,demystifying the benefits of plant-based proteins,nutrition,"jess vergeer, iain mcbride",education,beginner,1,1-5 min,2,no,0.0,"Diet, Vegan, Nutrition, Demystifying, Plant-based, Benefits, Protein, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+171,discover the joy of cooking nutritious meals,nutrition,jess vergeer,recipes,intermediate,2,15 - 30 min,4,no,0.0,"Meal, Kitchen, Planning, Nutrition, Cooking, Joy, Discover",mockup,"text, video",0,0,1,1,0,0,0,1,0
+261,drift into sleep with forest sounds,rest,iain mcbride,nature sounds and ambient music,beginner,1,30+ min,5,no,0.0,"Forest, Drift, Peace, Calm, Nature, Sleep, Sounds, Deep",mockup,audio,1,0,0,0,0,0,0,0,1
+10,embracing positivity with morning affirmations,beauty,julie chinmayi,affirmation,beginner,1,1-5 min,2,no,0.0,"Morning, Growth, Affirmation, Positive, Empowerment, Personal development, Embracing, Esteem",mockup,audio,1,0,0,0,0,0,1,0,0
+292,empowerment through self-love affirmations,beauty,iain mcbride,affirmation,beginner,1,1-5 min,2,no,0.0,"Wellness, Mental health, Self-esteem, Positive, Self-love, Confidence, Motivation, Empowerment",mockup,audio,1,0,0,0,0,0,1,0,0
+282,energetic cardio salsa workout,activity,walerija,fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Cardio, Music, Energyetic, Exercise, Dance, Fun, Rhythm, Salsa",mockup,video,0,0,0,1,0,1,0,0,0
+284,energize your day with a fun cardio dance workout,activity,nitti,fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Cardio, Day, Workout, Exercise, Energyize, Dance, Fun, Rhythm",mockup,video,0,0,0,1,0,1,0,0,0
+73,energize your morning with a fun zumba workout,activity,walerija,fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Morning, Zumba, Energyy, Workout, Exercise, Energyize, Dance, Fun",mockup,video,0,0,0,1,0,1,0,0,0
+27,energizing zumba dance workout,activity,walerija,fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Zumba, Energyy, Exercise, Workout, Dance, Fun, Rhythm, Energyizing",mockup,video,0,0,0,1,0,1,0,0,0
+237,exploring the art of healthy meal preparation,nutrition,jess vergeer,recipes,intermediate,2,15 - 30 min,4,no,0.0,"Kitchen, Planning, Meal, Nutrition, Exploring, Preparationaration, Art, Healthy",mockup,"text, video",0,0,1,1,0,0,0,1,0
+133,exploring the art of paleo cooking,nutrition,jess vergeer,recipes,intermediate,2,15 - 30 min,4,no,0.0,"Kitchen, Planning, Nutrition, Exploring, Art, Cooking, Health, Paleo",mockup,"text, video",0,0,1,1,0,0,0,1,0
+318,exploring the benefits of plant-based proteins,nutrition,iain mcbride,education,beginner,1,1-5 min,2,no,0.0,"Diet, Vegan, Nutrition, Exploring, Plant-based, Benefits, Protein, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+210,fast and nutritious plant-based meal recipes,nutrition,iain mcbride,recipes,beginner,1,6-15 min,3,no,0.0,"Kitchen, Vegan, Meal, Cooking, Plant-based, Nutrition, Fast, Recipe",mockup,"text, video",0,0,1,1,0,0,0,1,0
+6,fostering positivity with daily affirmations,beauty,mark boateng,affirmation,beginner,1,1-5 min,2,no,0.0,"Daily, Growth, Affirmation, Positive, Personal development, Fostering, Empowerment, Esteem",mockup,audio,1,0,0,0,0,0,1,0,0
+49,fun cardio dance party workout,activity,walerija,fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Cardio, Party, Energyy, Workout, Exercise, Dance, Fun, Rhythm",mockup,video,0,0,0,1,0,1,0,0,0
+337,get moving with a fun cardio dance,activity,walerija,fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Moving, Cardio, Workout, Exercise, Dance, Fun, Rhythm, Get",mockup,video,0,0,0,1,0,1,0,0,0
+42,get your heart pumping with a cardio dance workout,activity,nitti,fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Pumping, Cardio, Energyy, Workout, Exercise, Dance, Rhythm, Heart",mockup,video,0,0,0,1,0,1,0,0,0
+401,guide to balanced meals,nutrition,jess vergeer,recipes,intermediate,2,15 - 30 min,4,no,0.0,"Nutrition, Balance diet, Meal",mockup,"text, video",0,0,1,1,0,0,0,1,0
+219,guide to staying hydrated,nutrition,iain mcbride,education,beginner,1,1-5 min,2,no,0.0,"Hydration, Wellness, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+419,guided meditation for achieving inner calm,"beauty, rest",julie chinmayi,"meditation, mind and body",beginner,1,15 - 30 min,4,no,0.0,"Yoga, Relaxation, Mindfulness",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+264,guided meditation for achieving inner harmony,"beauty, rest",julie chinmayi,"meditation, mind and body",beginner,1,15 - 30 min,4,no,0.0,"Yoga, Relaxation, Mindfulness",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+143,guided meditation for achieving inner peace,"beauty, rest",julie chinmayi,"meditation, mind and body",beginner,1,15 - 30 min,4,no,0.0,"Yoga, Relaxation, Mindfulness",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+395,guided meditation for achieving inner serenity,"beauty, rest",julie chinmayi,"meditation, mind and body",beginner,1,15 - 30 min,4,no,0.0,"Yoga, Relaxation, Mindfulness",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+149,guided meditation for achieving serenity,"beauty, rest",julie chinmayi,"meditation, mind and body",beginner,1,15 - 30 min,4,no,0.0,"Yoga, Relaxation, Mindfulness",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+370,guided meditation for achieving tranquility,"beauty, rest",julie chinmayi,"meditation, mind and body",beginner,1,15 - 30 min,4,no,0.0,"Yoga, Relaxation, Mindfulness",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+358,guided meditation for anxiety,"beauty, rest",julie chinmayi,"meditation, mind and body",intermediate,2,15 - 30 min,4,no,0.0,"Yoga, Relaxation, Mindfulness",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+319,guided meditation for deep relaxation,"beauty, rest",julie chinmayi,"meditation, mind and body",beginner,1,15 - 30 min,4,no,0.0,"Yoga, Relaxation, Mindfulness",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+330,guided meditation for deep tranquility,"beauty, rest",julie chinmayi,"meditation, mind and body",beginner,1,15 - 30 min,4,no,0.0,"Yoga, Relaxation, Mindfulness",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+103,guided meditation for inner calm,"beauty, rest",julie chinmayi,"meditation, mind and body",beginner,1,15 - 30 min,4,no,0.0,"Yoga, Relaxation, Mindfulness",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+224,guided meditation for inner calm and peace,"beauty, rest",julie chinmayi,"meditation, mind and body",beginner,1,15 - 30 min,4,no,0.0,"Yoga, Relaxation, Mindfulness",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+55,guided meditation for inner peace,"beauty, rest",julie chinmayi,"meditation, mind and body",intermediate,2,15 - 30 min,4,no,0.0,"Yoga, Relaxation, Mindfulness",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+94,guided meditation for inner peace and tranquility,"beauty, rest",julie chinmayi,"meditation, mind and body",beginner,1,15 - 30 min,4,no,0.0,"Yoga, Relaxation, Mindfulness",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+317,guided meditation for mindfulness,"beauty, rest",julie chinmayi,"meditation, mind and body",intermediate,2,15 - 30 min,4,no,0.0,"Yoga, Relaxation, Mindfulness",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+375,hiit workout for advanced fitness,activity,nitti,fitness,expert,3,30+ min,5,yes,1.0,"Advanced, Hiit, Fitness",mockup,video,0,0,0,1,0,1,0,0,0
+325,hiit workout for beginners,activity,walerija,fitness,beginner,1,15 - 30 min,4,yes,1.0,"Strength, High intensity, Cardio",mockup,video,0,0,0,1,0,1,0,0,0
+265,hiit workout: the extreme challenge,activity,walerija,fitness,expert,3,30+ min,5,yes,1.0,"Endurance, Hiit, Fitness, Challenge, Workout, Exercise, Training, Extreme",mockup,video,0,0,0,1,0,1,0,0,0
+290,hiit workout: the ultimate challenge,activity,mark boateng,fitness,expert,3,30+ min,5,yes,1.0,"Endurance, Hiit, Fitness, Challenge, Workout, Exercise, Ultimate, Training",mockup,video,0,0,0,1,0,1,0,0,0
+320,healthy green smoothie recipe,nutrition,iain mcbride,recipes,beginner,1,<1 min (shorts),1,no,0.0,"Nutrition, Healthy, Recipe",mockup,"text, video",0,0,1,1,0,0,0,1,0
+249,healthy meal prep guide,nutrition,iain mcbride,recipes,intermediate,2,15 - 30 min,4,no,0.0,"Meal preparation, Healthy, Nutrition",mockup,"text, video",0,0,1,1,0,0,0,1,0
+202,high intensity interval training,activity,mark boateng,fitness,intermediate,2,30+ min,5,yes,1.0,"High intensity, Cardio, Fitness",mockup,video,0,0,0,1,0,1,0,0,0
+346,hydrating smoothie recipe,nutrition,iain mcbride,recipes,beginner,1,<1 min (shorts),1,no,0.0,"Hydration, Smoothie, Recipe",mockup,"text, video",0,0,1,1,0,0,0,1,0
+353,hydration tips and tricks,nutrition,iain mcbride,education,beginner,1,1-5 min,2,no,0.0,"Hydration, Tips, Wellness",mockup,"text, video",0,0,1,1,0,0,0,1,0
+235,hydration for health and wellness,nutrition,jess vergeer,education,beginner,1,1-5 min,2,no,0.0,"Wellness, Drink, Life, Nutrition, Hydration, Habit, Water, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+21,hydration: why it matters,nutrition,"jess vergeer, iain mcbride",education,beginner,1,<1 min (shorts),1,no,0.0,"Hydration, Wellness, Health",mockup,text,0,0,1,0,0,0,0,1,0
+286,jumpstart your day with an energizing dance workout,activity,bao,fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Jumpstart, Day, Energyy, Workout, Exercise, Dance, Rhythm, Energyizing",mockup,video,0,0,0,1,0,1,0,0,0
+334,kickstart your day with motivational affirmations,beauty,bao,affirmation,beginner,1,<1 min (shorts),1,no,0.0,"Morning, Motivation, Affirmation, Positive, Energyy, Kickday",mockup,"audio, text",1,0,1,0,0,0,1,0,0
+108,kickstart your morning with a high-energy dance workout,activity,walerija,fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Morning, Energyy, Workout, Exercise, Kickstart, Dance, High-energyy, Rhythm",mockup,video,0,0,0,1,0,1,0,0,0
+126,mastering healthy meal prepping,nutrition,jess vergeer,recipes,intermediate,2,15 - 30 min,4,no,0.0,"Kitchen, Planning, Mastering, Meal, Cooking, Healthy, Preparationping, Organization",mockup,"text, video",0,0,1,1,0,0,0,1,0
+348,mastering the art of balanced nutrition,nutrition,jess vergeer,recipes,intermediate,2,15 - 30 min,4,no,0.0,"Wellness, Diet, Life, Mastering, Nutrition, Art, Balance, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+397,mastering the art of healthy cooking,nutrition,iain mcbride,recipes,intermediate,2,15 - 30 min,4,no,0.0,"Kitchen, Planning, Mastering, Nutrition, Art, Cooking, Healthy, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+222,mastering the art of nutritious cooking,nutrition,"jess vergeer, iain mcbride",recipes,intermediate,2,15 - 30 min,4,no,0.0,"Kitchen, Planning, Mastering, Nutrition, Art, Cooking, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+329,mastering the art of nutritious meal planning,nutrition,"jess vergeer, iain mcbride",recipes,intermediate,2,15 - 30 min,4,no,0.0,"Planning, Kitchen, Mastering, Meal, Nutrition, Art, Healthy",mockup,"text, video",0,0,1,1,0,0,0,1,0
+193,mindful eating: a guide,"beauty, nutrition",walerija,education,beginner,1,6-15 min,3,no,0.0,"Mindfulness, Healthy, Life",mockup,"text, video",0,0,1,1,0,0,1,1,0
+228,mindful walking practice,"beauty, activity",mark boateng,meditation and mindfulness,beginner,1,6-15 min,3,yes,1.0,"Mindfulness, Walking, Outdoor",mockup,audio,1,0,0,0,0,1,1,0,0
+385,mindfulness meditation for enhanced focus,"beauty, rest",julie chinmayi,"meditation, mind and body",intermediate,2,15 - 30 min,4,no,0.0,"Yoga, Relaxation, Mindfulness",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+299,mindfulness meditation for focus,"beauty, rest",julie chinmayi,"meditation, mind and body",intermediate,2,15 - 30 min,4,no,0.0,"Yoga, Relaxation, Mindfulness",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+32,mindfulness meditation for improved concentration,"beauty, rest",julie chinmayi,"meditation, mind and body",intermediate,2,15 - 30 min,4,no,0.0,"Yoga, Relaxation, Mindfulness",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+60,mindfulness meditation: finding inner peace,"beauty, rest",julie chinmayi,"meditation, mind and body",beginner,1,15 - 30 min,4,no,0.0,"Yoga, Relaxation, Mindfulness",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+96,mindfulness practices for achieving inner balance,"beauty, rest","jess vergeer, iain mcbride",meditation and mindfulness,intermediate,2,15 - 30 min,4,no,0.0,"Awareness, Peace, Calm, Inner, Presence, Balance, Mindfulness, Achieving, Practice",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+22,mindfulness practices for emotional wellbeing,"beauty, rest",bao,meditation and mindfulness,intermediate,2,15 - 30 min,4,no,0.0,"Awareness, Peace, Calm, Emotional, Wellbeing, Presence, Mindfulness, Practice",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+115,mindfulness techniques for anxiety,"beauty, rest","jess vergeer, iain mcbride",meditation and mindfulness,intermediate,2,15 - 30 min,4,no,0.0,"Mindfulness, Anxiety, Deep",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+80,mindfulness techniques for anxiety relief,"beauty, rest",iain mcbride,meditation and mindfulness,intermediate,2,15 - 30 min,4,no,0.0,"Awareness, Techniques, Peace, Calm, Presence, Relief, Mindfulness, Anxiety",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+321,mindfulness techniques for emotional harmony,"beauty, rest","jess vergeer, iain mcbride",meditation and mindfulness,intermediate,2,15 - 30 min,4,no,0.0,"Awareness, Techniques, Peace, Harmony, Calm, Emotional, Presence, Mindfulness",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+191,mindfulness techniques for emotional resilience,"beauty, rest",bao,meditation and mindfulness,intermediate,2,15 - 30 min,4,no,0.0,"Awareness, Techniques, Peace, Calm, Emotional, Presence, Resilience, Mindfulness",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+192,mindfulness techniques for stress management,"beauty, rest",jess vergeer,meditation and mindfulness,intermediate,2,15 - 30 min,4,no,0.0,"Awareness, Techniques, Peace, Calm, Presence, Management, Mindfulness, Stress",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+56,mindfulness for stress relief,"beauty, rest",walerija,meditation and mindfulness,intermediate,2,15 - 30 min,4,no,0.0,"Mindfulness, Deep, Stress",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+83,morning motivation affirmations,beauty,iain mcbride,affirmation,beginner,1,<1 min (shorts),1,no,0.0,"Morning, Positive, Motivation",mockup,"audio, text",1,0,1,0,0,0,1,0,0
+240,nutrition basics: understanding macros,nutrition,jess vergeer,education,beginner,1,6-15 min,3,no,0.0,"Nutrition, Education, Macros",mockup,"text, video",0,0,1,1,0,0,0,1,0
+369,plant-based diet basics,nutrition,jess vergeer,education,beginner,1,1-5 min,2,no,0.0,"Diet, Basics, Plant-based",mockup,"text, video",0,0,1,1,0,0,0,1,0
+92,plant-based meal ideas,nutrition,jess vergeer,recipes,beginner,1,6-15 min,3,no,0.0,"Nutrition, Meal, Plant-based",mockup,"text, video",0,0,1,1,0,0,0,1,0
+102,positive affirmations for confidence,beauty,iain mcbride,affirmation,beginner,1,<1 min (shorts),1,no,0.0,"Positive, Self-love, Confidence",mockup,"audio, text",1,0,1,0,0,0,1,0,0
+182,positive affirmations for self-love,beauty,"jess vergeer, iain mcbride",affirmation,beginner,1,1-5 min,2,no,0.0,"Affirmation, Positive, Self-love",mockup,"audio, text",1,0,1,0,0,0,1,0,0
+259,positive affirmations for the morning,beauty,walerija,affirmation,beginner,1,<1 min (shorts),1,no,0.0,"Morning, Positive, Motivation",mockup,"audio, text",1,0,1,0,0,0,1,0,0
+139,practicing mindfulness for stress relief,"beauty, rest",bao,meditation and mindfulness,intermediate,2,15 - 30 min,4,no,0.0,"Awareness, Practice, Peace, Calm, Presence, Relief, Mindfulness, Stress",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+400,practicing mindfulness in daily life,"beauty, rest","jess vergeer, iain mcbride",meditation and mindfulness,intermediate,2,15 - 30 min,4,no,0.0,"Daily, Awareness, Practice, Peace, Calm, Presence, Mindfulness, Life",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+160,quick and delicious paleo meal ideas,nutrition,jess vergeer,recipes,beginner,1,6-15 min,3,no,0.0,"Kitchen, Meal, Delicious, Cooking, Healthy, Ideas, Quick, Paleo",mockup,"text, video",0,0,1,1,0,0,0,1,0
+53,quick and delicious plant-based meal ideas,nutrition,"jess vergeer, iain mcbride",recipes,beginner,1,6-15 min,3,no,0.0,"Kitchen, Vegan, Meal, Delicious, Cooking, Plant-based, Ideas, Quick",mockup,"text, video",0,0,1,1,0,0,0,1,0
+189,quick and easy plant-based recipes,nutrition,iain mcbride,recipes,beginner,1,6-15 min,3,no,0.0,"Easy, Plant-based, Quick",mockup,"text, video",0,0,1,1,0,0,0,1,0
+294,quick and healthy plant-based meal ideas,nutrition,"jess vergeer, iain mcbride",recipes,beginner,1,6-15 min,3,no,0.0,"Kitchen, Vegan, Meal, Cooking, Plant-based, Healthy, Ideas, Quick",mockup,"text, video",0,0,1,1,0,0,0,1,0
+327,quick and healthy plant-based meal inspirations,nutrition,iain mcbride,recipes,beginner,1,6-15 min,3,no,0.0,"Kitchen, Vegan, Meal, Cooking, Plant-based, Healthy, Inspirations, Quick",mockup,"text, video",0,0,1,1,0,0,0,1,0
+200,quick and healthy plant-based meal prep ideas,nutrition,iain mcbride,recipes,beginner,1,6-15 min,3,no,0.0,"Kitchen, Meal, Cooking, Plant-based, Healthy, Quick, Ideas, Preparation",mockup,"text, video",0,0,1,1,0,0,0,1,0
+1,quick and nutritious plant-based meal ideas,nutrition,jess vergeer,recipes,beginner,1,6-15 min,3,no,0.0,"Kitchen, Vegan, Meal, Cooking, Plant-based, Nutrition, Ideas, Quick",mockup,"text, video",0,0,1,1,0,0,0,1,0
+243,quick and nutritious plant-based recipes,nutrition,iain mcbride,recipes,beginner,1,6-15 min,3,no,0.0,"Kitchen, Vegan, Cooking, Plant-based, Nutrition, Quick, Recipe",mockup,"text, video",0,0,1,1,0,0,0,1,0
+148,quick and tasty plant-based meal recipes,nutrition,iain mcbride,recipes,beginner,1,6-15 min,3,no,0.0,"Kitchen, Vegan, Meal, Cooking, Plant-based, Quick, Recipe, Tasty",mockup,"text, video",0,0,1,1,0,0,0,1,0
+389,relax with the sounds of a gentle rain,rest,iain mcbride,nature sounds and ambient music,beginner,1,30+ min,5,no,0.0,"Peace, Calm, Deep, Nature, Rain, Relax, Sounds, Gentle",mockup,audio,1,0,0,0,0,0,0,0,1
+405,relax with the sounds of a serene waterfall,rest,sophon,nature sounds and ambient music,beginner,1,30+ min,5,no,0.0,"Serene, Peace, Waterfall, Calm, Nature, Relax, Sounds, Deep",mockup,audio,1,0,0,0,0,0,0,0,1
+367,restful sleep with ambient sounds,rest,iain mcbride,nature sounds and ambient music,beginner,1,30+ min,5,no,0.0,"Ambient, Deep, Sleep",mockup,audio,1,0,0,0,0,0,0,0,1
+158,restorative yoga session,"rest, activity",walerija,fitness,beginner,1,30+ min,5,yes,1.0,"Flexibility, Balance, Deep",mockup,video,0,0,0,1,0,1,0,0,1
+135,restorative yoga for better sleep,"rest, activity",nitti,fitness,beginner,1,15 - 30 min,4,yes,1.0,"Wellness, Yoga, Peace, Calm, Sleep, Restorative, Better, Deep",mockup,video,0,0,0,1,0,1,0,0,1
+185,restorative yoga for deep relaxation,"rest, activity",sophon,fitness,beginner,1,15 - 30 min,4,yes,1.0,"Wellness, Yoga, Deep, Peace, Calm, Restorative",mockup,video,0,0,0,1,0,1,0,0,1
+163,restorative yoga for deep sleep,"rest, activity",iain mcbride,fitness,beginner,1,15 - 30 min,4,yes,1.0,"Wellness, Yoga, Deep, Calm, Balance, Sleep, Restorative",mockup,video,0,0,0,1,0,1,0,0,1
+307,restorative yoga for relaxation,"rest, activity",mark boateng,fitness,beginner,1,15 - 30 min,4,yes,1.0,"Restorative, Yoga, Deep",mockup,video,0,0,0,1,0,1,0,0,1
+407,restorative yoga for a deep night's sleep,"rest, activity",ola kwiatkowska,fitness,beginner,1,15 - 30 min,4,yes,1.0,"Wellness, Yoga, Deep, Calm, Night, Sleep, Restorative",mockup,video,0,0,0,1,0,1,0,0,1
+7,restorative yoga for a peaceful night's sleep,"rest, activity",julie chinmayi,fitness,beginner,1,15 - 30 min,4,yes,1.0,"Wellness, Yoga, Peace, Calm, Night, Sleep, Restorative, Deep",mockup,video,0,0,0,1,0,1,0,0,1
+273,restorative yoga for a restful night's sleep,"rest, activity",nitti,fitness,beginner,1,15 - 30 min,4,yes,1.0,"Wellness, Yoga, Calm, Deep, Night, Sleep, Restorative, Restful",mockup,video,0,0,0,1,0,1,0,0,1
+156,self-love affirmations,beauty,mark boateng,affirmation,beginner,1,1-5 min,2,no,0.0,"Wellness, Positive, Self-love",mockup,audio,1,0,0,0,0,0,1,0,0
+176,sleep better: ambient music,rest,ola kwiatkowska,nature sounds and ambient music,beginner,1,30+ min,5,no,0.0,"Music, Deep, Sleep",mockup,audio,1,0,0,0,0,0,0,0,1
+132,sleep enhancing ambient music,rest,walerija,nature sounds and ambient music,beginner,1,30+ min,5,no,0.0,"Music, Deep, Sleep",mockup,audio,1,0,0,0,0,0,0,0,1
+172,sleep enhancing sounds of the rainforest,rest,nitti,nature sounds and ambient music,beginner,1,30+ min,5,no,0.0,"Rainforest, Peace, Calm, Enhancing, Nature, Sleep, Sounds, Deep",mockup,audio,1,0,0,0,0,0,0,0,1
+152,sleep peacefully with ambient forest sounds,rest,sophon,nature sounds and ambient music,beginner,1,30+ min,5,no,0.0,"Peacely, Forest, Calm, Nature, Ambient, Sounds, Sleep, Deep",mockup,audio,1,0,0,0,0,0,0,0,1
+382,sleep soundly with ocean waves,rest,sophon,nature sounds and ambient music,beginner,1,30+ min,5,no,0.0,"Sounds, Peace, Calm, Nature, Waves, Ocean, Sleep, Deep",mockup,audio,1,0,0,0,0,0,0,0,1
+201,sleep soundly with soothing rain sounds,rest,iain mcbride,nature sounds and ambient music,beginner,1,30+ min,5,no,0.0,"Soothing, Sounds, Calm, Rain, Nature, Sleep, Deep",mockup,audio,1,0,0,0,0,0,0,0,1
+293,soothing sleep with nature sounds,rest,julie chinmayi,nature sounds and ambient music,beginner,1,30+ min,5,no,0.0,"Wellness, Soothing, Night, Peace, Calm, Nature, Sleep, Deep",mockup,audio,1,0,0,0,0,0,0,0,1
+197,start your day right with positive affirmations,beauty,walerija,affirmation,beginner,1,<1 min (shorts),1,no,0.0,"Right, Morning, Day, Affirmation, Positive, Motivation",mockup,"audio, text",1,0,1,0,0,0,1,0,0
+365,start your day with positive affirmations,beauty,mark boateng,affirmation,beginner,1,<1 min (shorts),1,no,0.0,"Morning, Day, Affirmation, Positive, Energyy, Motivation",mockup,"audio, text",1,0,1,0,0,0,1,0,0
+277,start your day with uplifting affirmations,beauty,jess vergeer,affirmation,beginner,1,<1 min (shorts),1,no,0.0,"Morning, Start, Uplifting, Day, Affirmation, Positive, Energyy, Motivation",mockup,"audio, text",1,0,1,0,0,0,1,0,0
+183,start your day with a tai chi routine,activity,mark boateng,fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Start, Tai chi, Routine, Day, Energyy, Exercise, Balance, Rhythm",mockup,video,0,0,0,1,0,1,0,0,0
+166,start your morning right with positive affirmations,beauty,mark boateng,affirmation,beginner,1,<1 min (shorts),1,no,0.0,"Morning, Right, Affirmation, Positive, Energyy, Motivation",mockup,"audio, text",1,0,1,0,0,0,1,0,0
+241,stress management techniques,"beauty, rest",iain mcbride,meditation and mindfulness,intermediate,2,15 - 30 min,4,no,0.0,"Wellness, Stress, Coping strategies",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+180,stress relief with nature sounds,rest,mark boateng,nature sounds and ambient music,beginner,1,15 - 30 min,4,no,0.0,"Nature, Deep, Stress",mockup,audio,1,0,0,0,0,0,0,0,1
+221,tai chi for enhancing balance and flexibility,"rest, activity",walerija,fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Flexibility, Tai chi, Fitness, Enhancing, Exercise, Balance, Training, Posture",mockup,video,0,0,0,1,0,1,0,0,1
+368,techniques for mindful living,"beauty, rest",ola kwiatkowska,meditation and mindfulness,intermediate,2,15 - 30 min,4,no,0.0,"Awareness, Techniques, Life, Calm, Mindful, Presence, Focus",mockup,"audio, visualization",1,0,0,0,1,0,1,0,1
+39,the art of cooking nutritious meals,nutrition,iain mcbride,recipes,intermediate,2,15 - 30 min,4,no,0.0,"Meal, Kitchen, Planning, Nutrition, Art, Cooking, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+373,the art of preparing healthy meals,nutrition,jess vergeer,recipes,intermediate,2,15 - 30 min,4,no,0.0,"Meal, Kitchen, Planning, Nutrition, Art, Cooking, Preparationaring, Healthy",mockup,"text, video",0,0,1,1,0,0,0,1,0
+190,the benefits of plant-based proteins explained,nutrition,jess vergeer,education,beginner,1,1-5 min,2,no,0.0,"Diet, Vegan, Nutrition, Plant-based, Benefits, Protein, Health, Explained",mockup,"text, video",0,0,1,1,0,0,0,1,0
+13,the importance of hydration for health,nutrition,"jess vergeer, iain mcbride",education,beginner,1,1-5 min,2,no,0.0,"Wellness, Drink, Life, Nutrition, Hydration, Water, Importance, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+31,the importance of hydration for optimal health,nutrition,jess vergeer,education,beginner,1,1-5 min,2,no,0.0,"Wellness, Drink, Life, Hydration, Water, Importance, Optimal, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+145,the importance of vitamins and minerals,nutrition,iain mcbride,education,intermediate,2,6-15 min,3,no,0.0,"Minerals, Health, Vitamins",mockup,"text, video",0,0,1,1,0,0,0,1,0
+151,the power of plant-based proteins,nutrition,"jess vergeer, iain mcbride",education,beginner,1,1-5 min,2,no,0.0,"Diet, Education, Vegan, Nutrition, Plant-based, Power, Protein, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+232,the power of plant-based proteins unveiled,nutrition,jess vergeer,education,beginner,1,1-5 min,2,no,0.0,"Diet, Vegan, Nutrition, Plant-based, Power, Protein, Health, Unveiled",mockup,"text, video",0,0,1,1,0,0,0,1,0
+374,the role of hydration in maintaining health,nutrition,"jess vergeer, iain mcbride",education,beginner,1,1-5 min,2,no,0.0,"Wellness, Drink, Life, Maintaining, Hydration, Water, Role, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+417,the science behind plant-based proteins,nutrition,jess vergeer,education,beginner,1,1-5 min,2,no,0.0,"Diet, Vegan, Nutrition, Plant-based, Science, Behind, Protein, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+303,the science behind proper hydration,nutrition,jess vergeer,education,beginner,1,1-5 min,2,no,0.0,"Wellness, Drink, Hydration, Water, Proper, Science, Behind, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+204,the science of hydration and health,nutrition,iain mcbride,education,beginner,1,1-5 min,2,no,0.0,"Wellness, Drink, Life, Nutrition, Hydration, Water, Science, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+106,the science of hydration for health and wellness,nutrition,"jess vergeer, iain mcbride",education,beginner,1,1-5 min,2,no,0.0,"Wellness, Drink, Life, Nutrition, Hydration, Water, Science, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+418,the science of plant-based proteins,nutrition,"jess vergeer, iain mcbride",education,beginner,1,1-5 min,2,no,0.0,"Diet, Education, Vegan, Nutrition, Plant-based, Science, Protein, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+173,the ultimate hiit challenge for fitness enthusiasts,activity,nitti,fitness,expert,3,30+ min,5,yes,1.0,"Endurance, Hiit, Fitness, Challenge, Exercise, Ultimate, Enthusiasts, Training",mockup,video,0,0,0,1,0,1,0,0,0
+238,the ultimate hiit challenge for the fitness fanatics,activity,nitti,fitness,expert,3,30+ min,5,yes,1.0,"Fanatics, Endurance, Hiit, Fitness, Challenge, Exercise, Ultimate, Training",mockup,video,0,0,0,1,0,1,0,0,0
+20,the ultimate hiit challenge for the fitness savvy,activity,mark boateng,fitness,expert,3,30+ min,5,yes,1.0,"Endurance, Hiit, Fitness, Challenge, Exercise, Savvy, Ultimate, Training",mockup,video,0,0,0,1,0,1,0,0,0
+30,the ultimate hiit challenge for the fitness warriors,activity,ola kwiatkowska,fitness,expert,3,30+ min,5,yes,1.0,"Endurance, Hiit, Fitness, Challenge, Exercise, Ultimate, Training, Warriors",mockup,video,0,0,0,1,0,1,0,0,0
+79,the ultimate hiit workout challenge,activity,ola kwiatkowska,fitness,expert,3,30+ min,5,yes,1.0,"Endurance, Hiit, Fitness, Challenge, Workout, Exercise, Ultimate, Training",mockup,video,0,0,0,1,0,1,0,0,0
+384,the ultimate hiit workout for fitness enthusiasts,activity,walerija,fitness,expert,3,30+ min,5,yes,1.0,"Endurance, Hiit, Fitness, Workout, Exercise, Ultimate, Enthusiasts, Training",mockup,video,0,0,0,1,0,1,0,0,0
+250,the ultimate hiit workout for fitness lovers,activity,walerija,fitness,expert,3,30+ min,5,yes,1.0,"Endurance, Hiit, Fitness, Lovers, Workout, Exercise, Ultimate, Training",mockup,video,0,0,0,1,0,1,0,0,0
+236,understanding macronutrients,nutrition,jess vergeer,education,intermediate,2,6-15 min,3,no,0.0,"Nutrition, Wellness, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+398,understanding micronutrients,nutrition,"jess vergeer, iain mcbride",education,intermediate,2,6-15 min,3,no,0.0,"Nutrition, Micronutrition, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+72,understanding plant-based proteins,nutrition,"jess vergeer, iain mcbride",education,beginner,1,1-5 min,2,no,0.0,"Nutrition, Plant-based, Protein",mockup,"text, video",0,0,1,1,0,0,0,1,0
+95,understanding vitamins and minerals,nutrition,jess vergeer,education,intermediate,2,6-15 min,3,no,0.0,"Nutrition, Minerals, Vitamins",mockup,"text, video",0,0,1,1,0,0,0,1,0
+205,understanding the importance of hydration,nutrition,iain mcbride,education,beginner,1,1-5 min,2,no,0.0,"Wellness, Drink, Life, Understanding, Hydration, Water, Importance, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+415,understanding the importance of hydration for health,nutrition,jess vergeer,education,beginner,1,1-5 min,2,no,0.0,"Wellness, Drink, Life, Understanding, Hydration, Water, Importance, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+36,understanding the power of plant-based proteins,nutrition,"jess vergeer, iain mcbride",education,beginner,1,1-5 min,2,no,0.0,"Diet, Vegan, Understanding, Nutrition, Plant-based, Power, Protein, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+129,understanding the role of hydration in overall health,nutrition,iain mcbride,education,beginner,1,1-5 min,2,no,0.0,"Wellness, Drink, Understanding, Hydration, Overall, Water, Role, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+75,unraveling the health benefits of plant-based proteins,nutrition,"jess vergeer, iain mcbride",education,beginner,1,1-5 min,2,no,0.0,"Diet, Vegan, Nutrition, Plant-based, Unraveling, Benefits, Protein, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+54,unwind with the sounds of a calming ocean,rest,bao,nature sounds and ambient music,beginner,1,30+ min,5,no,0.0,"Peace, Unwind, Calm, Nature, Ocean, Sounds, Deep",mockup,audio,1,0,0,0,0,0,0,0,1
+23,unwind with the sounds of a tranquil rainforest,rest,"jess vergeer, iain mcbride",nature sounds and ambient music,beginner,1,30+ min,5,no,0.0,"Rainforest, Peace, Unwind, Tranquil, Calm, Nature, Sounds, Deep",mockup,audio,1,0,0,0,0,0,0,0,1
+233,vegan protein sources,nutrition,iain mcbride,education,beginner,1,1-5 min,2,no,0.0,"Nutrition, Vegan, Protein",mockup,"text, video",0,0,1,1,0,0,0,1,0
+350,vitamins and minerals: a comprehensive guide,nutrition,iain mcbride,education,intermediate,2,6-15 min,3,no,0.0,"Guide, Wellness, Education, Comprehensive, Nutrition, Minerals, Vitamins, Health",mockup,"text, video",0,0,1,1,0,0,0,1,0
+281,yoga for better sleep,"rest, activity",mark boateng,fitness,beginner,1,15 - 30 min,4,yes,1.0,"Yoga, Deep, Sleep",mockup,video,0,0,0,1,0,1,0,0,1
+324,yoga for deep relaxation and sleep,"rest, activity","jess vergeer, iain mcbride",fitness,beginner,1,15 - 30 min,4,yes,1.0,"Wellness, Night, Yoga, Peace, Deep, Calm, Sleep",mockup,video,0,0,0,1,0,1,0,0,1
+164,yoga for deep sleep and relaxation,"rest, activity",mark boateng,fitness,beginner,1,15 - 30 min,4,yes,1.0,"Wellness, Night, Yoga, Deep, Peace, Calm, Sleep",mockup,video,0,0,0,1,0,1,0,0,1
+179,yoga for enhanced balance and strength,"rest, activity",ola kwiatkowska,fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Enhanced, Flexibility, Yoga, Fitness, Strength, Exercise, Balance, Training",mockup,video,0,0,0,1,0,1,0,0,1
+91,yoga for enhancing agility and strength,"rest, activity",ola kwiatkowska,fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Yoga, Fitness, Enhancing, Strength, Exercise, Balance, Agility, Training",mockup,video,0,0,0,1,0,1,0,0,1
+408,yoga for enhancing balance and strength,"rest, activity","jess vergeer, iain mcbride",fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Flexibility, Yoga, Fitness, Enhancing, Strength, Exercise, Balance, Training",mockup,video,0,0,0,1,0,1,0,0,1
+379,yoga for enhancing flexibility and coordination,"rest, activity",ola kwiatkowska,fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Flexibility, Yoga, Coordination, Fitness, Enhancing, Exercise, Balance, Training",mockup,video,0,0,0,1,0,1,0,0,1
+425,yoga for enhancing flexibility and posture,"rest, activity",walerija,fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Flexibility, Yoga, Fitness, Enhancing, Exercise, Balance, Training, Posture",mockup,video,0,0,0,1,0,1,0,0,1
+387,yoga for enhancing flexibility and strength,"rest, activity",nitti,fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Flexibility, Yoga, Fitness, Enhancing, Strength, Exercise, Balance, Training",mockup,video,0,0,0,1,0,1,0,0,1
+218,yoga for flexibility,"rest, activity",ola kwiatkowska,fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Balance, Flexibility, Yoga",mockup,video,0,0,0,1,0,1,0,0,1
+411,yoga for improved flexibility,"rest, activity",nitti,fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Strength, Flexibility, Yoga",mockup,video,0,0,0,1,0,1,0,0,1
+217,yoga for improving balance and flexibility,"rest, activity","jess vergeer, iain mcbride",fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Flexibility, Yoga, Fitness, Improved, Strength, Exercise, Balance, Training",mockup,video,0,0,0,1,0,1,0,0,1
+5,yoga for improving posture and flexibility,"rest, activity",bao,fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Flexibility, Yoga, Fitness, Improved, Strength, Exercise, Training, Posture",mockup,video,0,0,0,1,0,1,0,0,1
+424,yoga for stress relief,"rest, activity",sophon,fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Deep, Yoga, Stress",mockup,video,0,0,0,1,0,1,0,0,1
+396,zumba fitness dance workout,activity,walerija,fitness,intermediate,2,15 - 30 min,4,yes,1.0,"Zumba, Dance, Cardio",mockup,video,0,0,0,1,0,1,0,0,0
+203,boat pose,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+178,12 muay thai poses,activity,bao,get to know the technique,beginner,1,1-5 min,2,yes,1.0,Muay thai,real,video,0,0,0,1,0,1,0,0,0
+144,15 min beginners core workout,activity,ola kwiatkowska,"get started, short and sweet, fitness mojo",beginner,1,6-15 min,0,yes,1.0,"Body weight, Core",real,audio,1,0,0,0,0,1,0,0,0
+414,15 min bodyweight beginners workout,activity,ola kwiatkowska,"get started, just your body, fitness mojo",intermediate,2,6-15 min,3,yes,1.0,"Body weight series, X",real,video,0,0,0,1,0,1,0,0,0
+153,15 min yoga flow for beginners,rest,ola kwiatkowska,"get started, short and sweet",beginner,1,6-15 min,3,no,0.0,"Yoga, Yoga",real,video,0,0,0,1,0,0,0,0,1
+81,16 thai-chi poses library,rest,bao,get to know the technique,beginner,1,6-15 min,3,no,0.0,Thai-chi,real,video,0,0,0,1,0,0,0,0,1
+118,18 thai stretching poses library,rest,sophon,get to know the technique,beginner,1,1-5 min,2,no,0.0,"Thai stretch classes, Stretching, Thai stretch",real,video,0,0,0,1,0,0,0,0,1
+157,20 min bodyweight beginners workout,activity,ola kwiatkowska,"just your body, fitness mojo",intermediate,2,15 - 30 min,4,yes,1.0,"Body weight series, Whole body, Body weight, Strength",real,video,0,0,0,1,0,1,0,0,0
+363,20 min yoga flow for beginners - ola teaches ross,rest,ola kwiatkowska,"on the floor, get started",beginner,1,6-15 min,3,no,0.0,"Yoga, Yoga",real,video,0,0,0,1,0,0,0,0,1
+242,25 min yoga flow for beginners - ola teaches magda,rest,ola kwiatkowska,"on the floor, get started",beginner,1,6-15 min,3,no,0.0,"Yoga, Yoga",real,video,0,0,0,1,0,0,0,0,1
+376,31 yoga poses library,activity,nitti,get to know the technique,beginner,1,6-15 min,3,yes,1.0,Yoga,real,video,0,0,0,1,0,1,0,0,0
+105,4-7-8 breathing,rest,julie chinmayi,get to know the technique,beginner,0,6-15 min,0,no,0.0,"Relaxation, Breathing",real,unknown,0,0,0,0,0,0,0,0,1
+62,7 count breath,rest,julie chinmayi,get to know the technique,beginner,0,6-15 min,0,no,0.0,"Relaxation, Breathing",real,unknown,0,0,0,0,0,0,0,0,1
+109,apple & cinnamon crumble,nutrition,"jess vergeer, iain mcbride","short and sweet, healthy desserts",beginner,0,6-15 min,3,no,0.0,"Gluten free, Vegan, Baking, Guilt free, None, Desserts",real,"recipe, video",0,1,0,1,0,0,0,1,0
+128,basic squat - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+82,benefits of breathing practices\,rest,julie chinmayi,get to know the technique,beginner,0,6-15 min,0,no,0.0,"Relaxation, Breathing",real,unknown,0,0,0,0,0,0,0,0,1
+422,benefits of meditation,rest,julie chinmayi,"meditation, mind and body",beginner,0,6-15 min,0,no,0.0,"Yoga, Relaxation, Mindfulness",real,unknown,0,0,0,0,0,0,0,0,1
+268,big toe posepadangusthasana,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+45,body awareness,activity,walerija,"push yourself, just your body, get energised",beginner,0,6-15 min,0,yes,1.0,"dance, whole body",real,video,0,0,0,1,0,1,0,0,0
+165,body coordination - extraordinary rhythm,activity,walerija,"push yourself, just your body, get energised",beginner,0,<1 min (shorts),0,yes,1.0,"dance, whole body",real,video,0,0,0,1,0,1,0,0,0
+278,body scanning meditation,rest,julie chinmayi,"meditation, mind and body",beginner,0,6-15 min,0,no,0.0,"Yoga, Relaxation, Mindfulness",real,unknown,0,0,0,0,0,0,0,0,1
+90,bodyweight workout advantages & benefits,activity,ola kwiatkowska,check why,beginner,0,6-15 min,0,yes,1.0,"Body weight series, Whole body, Body weight, Strength",real,video,0,0,0,1,0,1,0,0,0
+399,box breathing,rest,julie chinmayi,get to know the technique,beginner,0,6-15 min,0,no,0.0,"Relaxation, Breathing",real,unknown,0,0,0,0,0,0,0,0,1
+403,breaking down a balanced diet,nutrition,jess vergeer,goe academy,beginner,0,6-15 min,3,no,0.0,"Education, Building, None",real,"recipe, video",0,1,0,1,0,0,0,1,0
+380,breath work meditation,rest,julie chinmayi,"meditation, mind and body",beginner,0,6-15 min,0,no,0.0,"Yoga, Relaxation, Mindfulness",real,unknown,0,0,0,0,0,0,0,0,1
+347,breathing techniques for health - breath of joy,rest,julie chinmayi,"take a breath, mind and body",beginner,1,6-15 min,3,no,0.0,"Relaxation, Breathing",real,video,0,0,0,1,0,0,0,0,1
+322,breathing techniques for health - loving breath,rest,julie chinmayi,"take a breath, mind and body",beginner,1,6-15 min,3,no,0.0,"Relaxation, Breathing",real,video,0,0,0,1,0,0,0,0,1
+167,breathing techniques for health - grounding breath,rest,julie chinmayi,"take a breath, mind and body",beginner,1,6-15 min,3,no,0.0,"Relaxation, Breathing",real,video,0,0,0,1,0,0,0,0,1
+211,breathing techniques for health - breathing into emotion,rest,julie chinmayi,"take abreath, mind and body, relax",beginner,1,6-15 min,3,no,0.0,"Relaxation, Breathing",real,video,0,0,0,1,0,0,0,0,1
+168,breathing techniques for health - diaphragmatic breath,rest,julie chinmayi,"take a breath, mind and body",beginner,1,6-15 min,3,no,0.0,"Relaxation, Breathing",real,video,0,0,0,1,0,0,0,0,1
+227,breathing techniques for health - heat sensations of the breath,rest,julie chinmayi,"take a breath, mind and body",beginner,1,6-15 min,3,no,0.0,"Relaxation, Breathing",real,video,0,0,0,1,0,0,0,0,1
+298,breathing techniques for health - how breathing can improve your wellness,rest,julie chinmayi,"take a breath, mind and body",intermediate,2,6-15 min,3,no,0.0,"Relaxation, Breathing",real,video,0,0,0,1,0,0,0,0,1
+8,breathing techniques for health - thought erasing,rest,julie chinmayi,"take a breath, relax",beginner,1,6-15 min,3,no,0.0,"Relaxation, Breathing",real,video,0,0,0,1,0,0,0,0,1
+300,breathing techniques for health - twisting breath,rest,julie chinmayi,"take a breath, relax, mind and body",beginner,1,6-15 min,3,no,0.0,"Relaxation, Breathing",real,video,0,0,0,1,0,0,0,0,1
+116,bridge - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+345,butterfly pose,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+262,cat and cow - yoga library,rest,ola kwiatkowska,get to know the technique,beginner,1,6-15 min,3,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+355,centipede - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+410,chair pose,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+137,chakra meditation,rest,julie chinmayi,"meditation, mind and body",beginner,0,<1 min (shorts),0,no,0.0,"Yoga, Relaxation, Mindfulness",real,unknown,0,0,0,0,0,0,0,0,1
+247,childs pose - yoga library,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+267,chocolate mousse & chia seeds,nutrition,iain mcbride,"short and sweet, healthy desserts, quick and easy",beginner,1,6-15 min,3,no,0.0,"Vegan, Dessert, Guilt free, None",real,"recipe, video",0,1,0,1,0,0,0,1,0
+392,combo breathing,rest,julie chinmayi,get to know the technique,beginner,0,<1 min (shorts),0,no,0.0,"Relaxation, Breathing",real,unknown,0,0,0,0,0,0,0,0,1
+357,conclusion and summary of the first part of the course,activity,walerija,"push yourself, just your body, get energised",beginner,0,6-15 min,0,yes,1.0,"dance, whole body",real,video,0,0,0,1,0,1,0,0,0
+146,confidence starts with proper silhouette/posture,activity,walerija,"push yourself, just your body, get energised",beginner,0,6-15 min,0,yes,1.0,"dance, whole body",real,video,0,0,0,1,0,1,0,0,0
+328,core office workout,rest,ola kwiatkowska,"stretching, yoga",beginner,1,1-5 min,2,no,0.0,"Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+86,core workout 1,activity,mark boateng,"just your body, on the floor, sweet and short",intermediate,2,6-15 min,3,yes,1.0,"Body weight, Strength, None, Core",real,video,0,0,0,1,0,1,0,0,0
+333,core workout 2,activity,mark boateng,"just your body, on the floor, sweet and short",intermediate,2,6-15 min,3,yes,1.0,"Body weight, Strength, None, Core",real,video,0,0,0,1,0,1,0,0,0
+50,core workout 3,activity,mark boateng,"just your body, on the floor, sweet and short",beginner,1,6-15 min,3,yes,1.0,"Body weight, Strength, None, Core",real,video,0,0,0,1,0,1,0,0,0
+38,courtesy - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+35,crunch with ams - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+356,cuban cha cha cha,activity,walerija,"push yourself, just your body, get energised",beginner,0,6-15 min,0,yes,1.0,"dance, whole body",real,video,0,0,0,1,0,1,0,0,0
+220,dance for the brave. chair dance,activity,walerija,"push yourself, just your body, get energised",beginner,0,<1 min (shorts),0,yes,1.0,"dance, whole body",real,video,0,0,0,1,0,1,0,0,0
+24,dancer pose,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+361,deadlift - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+394,desk stretches workout,rest,ola kwiatkowska,"stretching, yoga",beginner,1,1-5 min,2,no,0.0,"Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+285,developing body flexibility. free and flexible body,activity,walerija,"push yourself, just your body, get energised",beginner,0,<1 min (shorts),0,yes,1.0,"dance, whole body",real,video,0,0,0,1,0,1,0,0,0
+229,down dog - yoga library,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+11,dynamic cardio,activity,mark boateng,"just your body, push yourself",intermediate,2,6-15 min,3,yes,1.0,"Cardio, None, Body weight",real,video,0,0,0,1,0,1,0,0,0
+67,eagle pose/garudasana,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+29,easy pose,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+208,emotional release - abdominal breath,rest,julie chinmayi,"take a breath, mind and body",intermediate,2,6-15 min,3,no,0.0,"Relaxation, Breathing",real,video,0,0,0,1,0,0,0,0,1
+314,emotional release - humming bee breath,rest,julie chinmayi,"take a breath, mind and body",intermediate,2,6-15 min,3,no,0.0,"Relaxation, Breathing",real,video,0,0,0,1,0,0,0,0,1
+125,emotional release - ‘ma’ chanting,rest,julie chinmayi,"meditation, mind and body",beginner,1,6-15 min,3,no,0.0,"Emotional, Emotional",real,video,0,0,0,1,0,0,0,0,1
+70,emotional release lions breath,rest,julie chinmayi,take a breath,intermediate,2,6-15 min,3,no,0.0,"Relaxation, Breathing",real,video,0,0,0,1,0,0,0,0,1
+162,energetic salsa,activity,walerija,"push yourself, just your body, get energised",beginner,0,<1 min (shorts),0,yes,1.0,"dance, whole body",real,video,0,0,0,1,0,1,0,0,0
+230,family friendly yoga with kids,rest,julie chinmayi,"mind and body, my evening routine",beginner,1,6-15 min,3,no,0.0,Yoga,real,video,0,0,0,1,0,0,0,0,1
+195,feminine dance,activity,walerija,"push yourself, just your body, get energised",beginner,0,6-15 min,0,yes,1.0,"dance, whole body",real,video,0,0,0,1,0,1,0,0,0
+138,feminine energy. spain,activity,walerija,"push yourself, just your body, get energised",beginner,0,6-15 min,0,yes,1.0,"dance, whole body",real,video,0,0,0,1,0,1,0,0,0
+386,feminine sensuality,activity,walerija,"push yourself, just your body, get energised",beginner,0,<1 min (shorts),0,yes,1.0,"dance, whole body",real,video,0,0,0,1,0,1,0,0,0
+113,food for fuel,nutrition,jess vergeer,goe academy,beginner,1,6-15 min,3,no,0.0,"Education, Building, None",real,"recipe, video",0,1,0,1,0,0,0,1,0
+101,forward fold,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+287,full crunch - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+378,gratitude meditation,rest,julie chinmayi,"meditation, mind and body",beginner,0,<1 min (shorts),0,no,0.0,"Yoga, Relaxation, Mindfulness",real,unknown,0,0,0,0,0,0,0,0,1
+338,hiit - high intensity interval training workout 1,activity,mark boateng,"push yourself, just your body, get energised",beginner,1,6-15 min,3,yes,1.0,"Hiit, None, Body weight, Cardio, Strength",real,video,0,0,0,1,0,1,0,0,0
+111,hiit - high intensity interval training workout 3,activity,mark boateng,"push yourself, just your body",intermediate,2,6-15 min,3,yes,1.0,"Hiit, None, Body weight, Cardio, Strength",real,video,0,0,0,1,0,1,0,0,0
+188,hiit - high intensity interval training workout 4,activity,mark boateng,"push yourself, just your body, get energised",intermediate,2,6-15 min,3,yes,1.0,"Hiit, None, Body weight, Cardio, Strength",real,video,0,0,0,1,0,1,0,0,0
+123,hiit- high intensity interval training workout 2,activity,mark boateng,"push yourself, just your body, get energised",intermediate,2,6-15 min,3,yes,1.0,"Hiit, None, Body weight, Cardio, Strength",real,video,0,0,0,1,0,1,0,0,0
+275,half lotus - yoga library,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+93,half lotus forward fold - yoga library,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+342,half lotus with side bend - yoga library,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+196,half moon pose/ardha chandrasana,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+63,heel touch - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+412,high plank - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+175,high plank - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+427,high plank foot tap - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+46,high plank hand tap - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+372,high plank hip tilt - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+131,high plank knee to chest - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+51,high plank to side plank - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+98,high plank walking fand - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+198,high plank walking to side - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+216,high rope - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+239,high rope jog - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+310,hindu squat/utkata konasana,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+423,hooks - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+339,how yoga can support your wellness journey,rest,ola kwiatkowska,check why,beginner,1,1-5 min,2,no,0.0,"Education, Yoga",real,video,0,0,0,1,0,0,0,0,1
+64,how to use core exercises library,activity,ola kwiatkowska,get to know the technique,beginner,1,1-5 min,2,yes,1.0,"Education, Core",real,video,0,0,0,1,0,1,0,0,0
+311,hula hoop fun class,activity,mark boateng,get energised,beginner,1,6-15 min,3,yes,1.0,"Hula hoop, None",real,video,0,0,0,1,0,1,0,0,0
+170,input vs output,nutrition,jess vergeer,goe academy,beginner,1,6-15 min,3,no,0.0,"Education, Building, None",real,"recipe, video",0,1,0,1,0,0,0,1,0
+248,intro to thai stretching,rest,sophon,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Thai stretch classes, Stretching, Thai stretch",real,video,0,0,0,1,0,0,0,0,1
+258,jab cross - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+252,jumping jack - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+270,jumping jack easy - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+309,kale smoothie,nutrition,iain mcbride,"short and sweet, healthy breakfast",beginner,1,1-5 min,2,no,0.0,"Quick, Drink, Guilt free, None, Vegan",real,video,0,0,0,1,0,0,0,1,0
+420,kettlebell stretching for muay thai,activity,bao,get to know the technique,beginner,1,1-5 min,2,yes,1.0,Muay thai,real,video,0,0,0,1,0,1,0,0,0
+154,knee lifts - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+390,knee up - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+41,knees up toe tap - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+331,learning to walk in heels,activity,walerija,"push yourself, just your body, get energised",beginner,0,<1 min (shorts),0,yes,1.0,"dance, whole body",real,video,0,0,0,1,0,1,0,0,0
+336,leg extension - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+66,legs extension crunch - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+207,legs extension legs up crunch - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+9,legs extension with pelvis off the floor - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+78,let's try kettlebell training 2,activity,mark boateng,"fitness mojo, pulse raiser",intermediate,2,6-15 min,3,yes,1.0,"Strength, None, Kettlebell",real,video,0,0,0,1,0,1,0,0,0
+59,let's try kettlebell training 3,activity,mark boateng,"fitness mojo, pulse raiser",intermediate,2,6-15 min,3,yes,1.0,"Strength, None, Kettlebell",real,video,0,0,0,1,0,1,0,0,0
+251,lets' try kettlebell training 1,activity,mark boateng,"fitness mojo, pulse raiser",intermediate,2,6-15 min,3,yes,1.0,"Strength, None, Kettlebell",real,video,0,0,0,1,0,1,0,0,0
+120,loctus/salabhasana pose,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+142,loving-kindness meditation,rest,julie chinmayi,"meditation, mind and body",beginner,0,6-15 min,0,no,0.0,"Yoga, Relaxation, Mindfulness",real,unknown,0,0,0,0,0,0,0,0,1
+89,low lunge - yoga library,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+393,low lunge with a twist - yoga library,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+308,low step - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+301,lunge - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+255,lunge forward and back - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+61,lunge knee to chest - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+257,lying twist - yoga library,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+302,march - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+297,meditation - conditioning of the mind,rest,julie chinmayi,"meditation, mind and body",beginner,1,6-15 min,3,no,0.0,"Yoga, Relaxation, Mindfulness",real,video,0,0,0,1,0,0,0,0,1
+316,meditation - exercises for sitting comfortably,rest,julie chinmayi,"meditation, mind and body",beginner,1,6-15 min,3,no,0.0,"Yoga, Relaxation, Mindfulness",real,video,0,0,0,1,0,0,0,0,1
+371,meditation - in three minds,rest,julie chinmayi,"meditation, mind and body",beginner,1,6-15 min,3,no,0.0,"Yoga, Relaxation, Mindfulness",real,video,0,0,0,1,0,0,0,0,1
+47,meditation - poses for sitting comfortably,rest,julie chinmayi,"meditation, mind and body",beginner,1,6-15 min,3,no,0.0,"Yoga, Relaxation, Mindfulness",real,video,0,0,0,1,0,0,0,0,1
+87,mindfulness meditation,rest,julie chinmayi,"meditation, mind and body",beginner,0,<1 min (shorts),0,no,0.0,"Yoga, Relaxation, Mindfulness",real,unknown,0,0,0,0,0,0,0,0,1
+110,mountain pose,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+134,muay thai introduction,activity,bao,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,Muay thai,real,video,0,0,0,1,0,1,0,0,0
+17,muay thai training for beginners,activity,bao,get to know the technique,beginner,1,6-15 min,3,yes,1.0,Muay thai,real,video,0,0,0,1,0,1,0,0,0
+304,muay thai trainings with people,activity,bao,get to know the technique,beginner,1,6-15 min,3,yes,1.0,Muay thai,real,video,0,0,0,1,0,1,0,0,0
+194,nature meditation,rest,julie chinmayi,"meditation, mind and body",beginner,0,6-15 min,0,no,0.0,"Yoga, Relaxation, Mindfulness",real,unknown,0,0,0,0,0,0,0,0,1
+391,opposite hand to knee - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+117,overnight oats,nutrition,"jess vergeer, iain mcbride","healthy breakfast, short and sweet, quick and easy",beginner,1,6-15 min,3,no,0.0,"Breakfast, Vegan, None",real,"recipe, video",0,1,0,1,0,0,0,1,0
+295,pan fried salmon,nutrition,"jess vergeer, iain mcbride",dinner,beginner,1,6-15 min,3,no,0.0,"Cooking, None, Dinner, Fish",real,"recipe, video",0,1,0,1,0,0,0,1,0
+28,"passionate, feminine dance",activity,walerija,"push yourself, just your body, get energised",beginner,0,6-15 min,0,yes,1.0,"dance, whole body",real,video,0,0,0,1,0,1,0,0,0
+141,pelvis off the floor with straight legs -core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+199,pigeon/swan pose/eka pada rajakapotasana,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+15,plank alternated foot lift - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+88,plank on knees - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+266,plow pose,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+263,pranayama,rest,nitti,get to know the technique,intermediate,2,6-15 min,3,no,0.0,"Pranayama, Yoga, Breathing",real,video,0,0,0,1,0,0,0,0,1
+223,pranayama - anuloma viloma,rest,julie chinmayi,"take a breath, mind and body",intermediate,2,6-15 min,3,no,0.0,"Pranayama, Breathing, Yoga",real,video,0,0,0,1,0,0,0,0,1
+244,pranayama - anuloma viloma (without mudra),rest,julie chinmayi,"take a breath, mind and body",intermediate,2,6-15 min,3,no,0.0,"Pranayama, Breathing, Yoga",real,video,0,0,0,1,0,0,0,0,1
+260,pranayama - bhastrika,rest,julie chinmayi,"take a breath, mind and body",beginner,1,6-15 min,3,no,0.0,"Pranayama, Breathing, Yoga",real,video,0,0,0,1,0,0,0,0,1
+344,pranayama - chandra bhedi,rest,julie chinmayi,"take a breath, mind and body",beginner,1,6-15 min,3,no,0.0,"Pranayama, Breathing, Yoga",real,video,0,0,0,1,0,0,0,0,1
+104,pranayama - clavicular breathing,rest,julie chinmayi,"take a breath, mind and body",beginner,1,6-15 min,3,no,0.0,"Relaxation, Breathing",real,video,0,0,0,1,0,0,0,0,1
+150,pranayama - introduction to the the yogi's breath,rest,julie chinmayi,"take a breath, mind and body",intermediate,2,6-15 min,3,no,0.0,"Relaxation, Breathing",real,video,0,0,0,1,0,0,0,0,1
+140,pranayama - lions breath,rest,julie chinmayi,"take a breath, mind and body",beginner,1,6-15 min,3,no,0.0,"Relaxation, Breathing",real,video,0,0,0,1,0,0,0,0,1
+68,pranayama - nadi shodhana,rest,julie chinmayi,"take a breath, mind and body",beginner,1,6-15 min,3,no,0.0,"Pranayama, Breathing, Yoga",real,video,0,0,0,1,0,0,0,0,1
+4,pranayama - sama vritti,rest,julie chinmayi,"take a breath, mind and body",beginner,1,6-15 min,3,no,0.0,"Pranayama, Breathing, Yoga",real,video,0,0,0,1,0,0,0,0,1
+343,pranayama - surya bhedi,rest,julie chinmayi,"take a breath, mind and body",beginner,1,6-15 min,3,no,0.0,"Pranayama, Breathing, Yoga",real,video,0,0,0,1,0,0,0,0,1
+57,pranayama - thoracic breathing,rest,julie chinmayi,"take a breath, mind and body",beginner,1,6-15 min,3,no,0.0,"Relaxation, Breathing",real,video,0,0,0,1,0,0,0,0,1
+305,pranayama - ujjayi (victorious) breath,rest,julie chinmayi,"take a breath, mind and body",beginner,1,6-15 min,3,no,0.0,"Relaxation, Breathing",real,video,0,0,0,1,0,0,0,0,1
+234,pranayama - yogic breath,rest,julie chinmayi,"take a breath, mind and body",intermediate,2,6-15 min,3,no,0.0,"Relaxation, Breathing",real,video,0,0,0,1,0,0,0,0,1
+52,pranayama - yogic practice of focusing on breath,rest,julie chinmayi,"take a breath, mind and body",intermediate,2,6-15 min,3,no,0.0,"Relaxation, Breathing",real,video,0,0,0,1,0,0,0,0,1
+2,pranayama prana shuddhi,rest,julie chinmayi,"take a breath, relax, mind and body",beginner,1,6-15 min,3,no,0.0,"Pranayama, Breathing, Yoga",real,video,0,0,0,1,0,0,0,0,1
+19,prayer - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+269,push up - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+402,relaxation - body awareness,rest,julie chinmayi,"relax, mind and body",beginner,1,6-15 min,3,no,0.0,Deep,real,video,0,0,0,1,0,0,0,0,1
+313,relaxation - connecting body and mind,rest,julie chinmayi,"relax, mind and body",intermediate,2,15 - 30 min,4,no,0.0,Deep,real,video,0,0,0,1,0,0,0,0,1
+26,relaxation - journaling,rest,julie chinmayi,"my evening routine, relax, check why",beginner,1,6-15 min,3,no,0.0,"Education, Deep",real,audio,1,0,0,0,0,0,0,0,1
+184,relaxation - science of breath,rest,julie chinmayi,"meditation, mind and body",beginner,1,6-15 min,3,no,0.0,"Relaxation, Breathing",real,video,0,0,0,1,0,0,0,0,1
+187,relaxation - the art of relaxation,rest,julie chinmayi,"relax, mind and body, take a breath",beginner,1,6-15 min,3,no,0.0,Deep,real,video,0,0,0,1,0,0,0,0,1
+44,relaxation - the importance of sleep,rest,julie chinmayi,"my evening routine, relax, check why",beginner,1,1-5 min,2,no,0.0,"Education, Deep",real,audio,1,0,0,0,0,0,0,0,1
+130,romantic rumba,activity,walerija,"push yourself, just your body, get energised",beginner,0,6-15 min,0,yes,1.0,"dance, whole body",real,video,0,0,0,1,0,1,0,0,0
+360,seated yoga flow,rest,ola kwiatkowska,"stretching, yoga",beginner,1,1-5 min,2,no,0.0,"Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+245,seated forward fold pose,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+256,self massage for recovery,rest,sophon,get to know the technique,beginner,1,1-5 min,2,no,0.0,"Yoga, Meditation",real,video,0,0,0,1,0,0,0,0,1
+271,shake out your stress. getting rid of extra calories,activity,walerija,"push yourself, just your body, get energised",beginner,0,<1 min (shorts),0,yes,1.0,"dance, whole body",real,video,0,0,0,1,0,1,0,0,0
+404,shoulder press - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+155,shoulder stand pose,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+428,shoulder tap - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+71,shoulder blade lift - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+388,side lunge - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+159,side plank hold - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+406,side plank pulse - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+272,squat knee - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+147,squat lunge - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+206,stand and tilt - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+279,standing crunch - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+315,standing twist - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+332,straight leg crunch - core library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Core, Body weight, Core",real,video,0,0,0,1,0,1,0,0,0
+65,sun warrior pose,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+326,thai stretching class 1 1-7,rest,sophon,get to know the technique,intermediate,2,15 - 30 min,4,no,0.0,"Thai stretch classes, Stretching, Thai stretch",real,video,0,0,0,1,0,0,0,0,1
+421,thai stretching class 2 8-13,rest,sophon,get to know the technique,intermediate,2,15 - 30 min,4,no,0.0,"Thai stretch classes, Stretching, Thai stretch",real,video,0,0,0,1,0,0,0,0,1
+169,thai stretching class 3 14-19,rest,sophon,get to know the technique,intermediate,2,15 - 30 min,4,no,0.0,"Thai stretch classes, Stretching, Thai stretch",real,video,0,0,0,1,0,0,0,0,1
+77,thai-chi introduction,rest,bao,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,Thai-chi,real,video,0,0,0,1,0,0,0,0,1
+291,thai-chi for beginners 1,rest,bao,get to know the technique,beginner,1,6-15 min,3,no,0.0,Thai-chi,real,video,0,0,0,1,0,0,0,0,1
+351,thai-chi for beginners 2,rest,bao,get to know the technique,beginner,1,6-15 min,3,no,0.0,Thai-chi,real,video,0,0,0,1,0,0,0,0,1
+119,thai-chi for beginners 3,rest,bao,get to know the technique,beginner,1,6-15 min,3,no,0.0,Thai-chi,real,video,0,0,0,1,0,0,0,0,1
+214,thai-chi with ross,rest,bao,get to know the technique,beginner,1,6-15 min,3,no,0.0,Thai-chi,real,video,0,0,0,1,0,0,0,0,1
+354,tree pose/vrikshasana,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+359,triangle pose/trikonasana,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+181,tricep dips - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+349,tricep push up - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+381,"turkey, red kidney bean and mediterranean stew",nutrition,"jess vergeer, iain mcbride",dinner,beginner,1,6-15 min,3,no,0.0,"Cooking, Meat, Dinner, None",real,"recipe, video",0,1,0,1,0,0,0,1,0
+100,upper cut - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+362,upward facing dog/urdhva mukha shvanasana,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+136,vegan meringue,nutrition,"jess vergeer, iain mcbride",healthy dessert,beginner,1,6-15 min,3,no,0.0,"Vegan, Desserts, Guilt free, None",real,"recipe, video",0,1,0,1,0,0,0,1,0
+177,walking meditation,rest,julie chinmayi,"meditation, mind and body",intermediate,2,1-5 min,2,no,0.0,"Yoga, Relaxation, Mindfulness",real,video,0,0,0,1,0,0,0,0,1
+413,warrior 1 pose/virabhadrasana,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+85,warrior 2/virabhadrasana ii,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+426,warrior 3/virabhadrasana iii,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+40,what does it mean to meditate,rest,julie chinmayi,"meditation, mind and body",beginner,1,1-5 min,2,no,0.0,"Yoga, Relaxation, Mindfulness",real,audio,1,0,0,0,0,0,0,0,1
+341,what is yoga nidra,rest,julie chinmayi,mind and body,beginner,1,1-5 min,2,no,0.0,"Education, Yoga",real,video,0,0,0,1,0,0,0,0,1
+3,what is meditation,rest,julie chinmayi,"meditation, mind and body",beginner,0,6-15 min,0,no,0.0,"Yoga, Relaxation, Mindfulness",real,unknown,0,0,0,0,0,0,0,0,1
+312,what it is and how to use bodyweight exercises library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+306,whole body dumbbell workout - intermediate 1,activity,mark boateng,pulse raiser,intermediate,2,6-15 min,3,yes,1.0,"Strength, Whole body, Dumbell, None",real,video,0,0,0,1,0,1,0,0,0
+69,whole body dumbbell workout - intermediate 2,activity,mark boateng,pulse raiser,intermediate,2,6-15 min,3,yes,1.0,"Strength, Whole body, Dumbell, None",real,video,0,0,0,1,0,1,0,0,0
+209,whole body dumbbell workout - intermediate 3,activity,mark boateng,pulse raiser,intermediate,2,6-15 min,3,yes,1.0,"Strength, Whole body, Dumbell, None",real,video,0,0,0,1,0,1,0,0,0
+416,why is releasing your emotions a good thing?,rest,julie chinmayi,check why,beginner,1,6-15 min,3,no,0.0,"Emotional, None",real,audio,1,0,0,0,0,0,0,0,1
+254,why you should keep your core strong,activity,ola kwiatkowska,check why,beginner,1,6-15 min,0,yes,1.0,"Education, Core",real,audio,1,0,0,0,0,1,0,0,0
+335,wide - legged standing forward bend,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+340,wide squat - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+112,wide squat hold - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+225,wide squat pulse - bodyweight library,activity,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,yes,1.0,"Body weight exercises library, Library, Body weight",real,video,0,0,0,1,0,1,0,0,0
+33,workout with resistance bands for beginners,activity,mark boateng,get started,beginner,1,6-15 min,3,yes,1.0,"Strength, None, Resistance bands",real,video,0,0,0,1,0,1,0,0,0
+74,yoga - poses library,rest,ola kwiatkowska,get to know the technique,beginner,1,<1 min (shorts),1,no,0.0,"Yoga, Body weight, Yoga",real,video,0,0,0,1,0,0,0,0,1
+48,yoga - the moon salutation,rest,julie chinmayi,"mind and body, my evening routine",beginner,1,6-15 min,3,no,0.0,Yoga,real,video,0,0,0,1,0,0,0,0,1
+127,yoga - the sun salutation,rest,julie chinmayi,"mind and body, my morning routine",beginner,1,6-15 min,3,no,0.0,Yoga,real,video,0,0,0,1,0,0,0,0,1
+114,yoga for becoming advanced,activity,nitti,get to know the technique,advanced,0,6-15 min,3,yes,1.0,Yoga,real,video,0,0,0,1,0,1,0,0,0
+97,yoga for beginners,activity,nitti,get to know the technique,beginner,1,6-15 min,3,yes,1.0,Yoga,real,video,0,0,0,1,0,1,0,0,0
+226,yoga for beginners with klaudia,activity,nitti,get to know the technique,beginner,1,6-15 min,3,yes,1.0,Yoga,real,video,0,0,0,1,0,1,0,0,0
+215,yoga for concentration,rest,julie chinmayi,mind and body,intermediate,2,15 - 30 min,4,no,0.0,Yoga,real,video,0,0,0,1,0,0,0,0,1
+58,yoga for cyclists by julie,rest,julie chinmayi,mind and body,beginner,1,6-15 min,3,no,0.0,Yoga,real,video,0,0,0,1,0,0,0,0,1
+124,yoga for energy,rest,julie chinmayi,mind and body,intermediate,2,15 - 30 min,4,no,0.0,Yoga,real,video,0,0,0,1,0,0,0,0,1
+107,yoga for grumpy knees,rest,julie chinmayi,mind and body,beginner,1,6-15 min,3,no,0.0,Yoga,real,video,0,0,0,1,0,0,0,0,1
+84,yoga for intermediate,activity,nitti,get to know the technique,intermediate,2,6-15 min,3,yes,1.0,Yoga,real,video,0,0,0,1,0,1,0,0,0
+18,yoga for relaxation,rest,julie chinmayi,"relax, mind and body",intermediate,2,15 - 30 min,4,no,0.0,"Pranayama, Breathing, Yoga",real,video,0,0,0,1,0,0,0,0,1
+231,yoga for the lower back,rest,julie chinmayi,mind and body,beginner,1,6-15 min,3,no,0.0,Yoga,real,video,0,0,0,1,0,0,0,0,1
+99,yoga foundations - concentration,rest,julie chinmayi,mind and body,beginner,1,6-15 min,3,no,0.0,"Yoga, Yoga",real,video,0,0,0,1,0,0,0,0,1
+323,yoga foundations - finding balance,rest,julie chinmayi,mind and body,intermediate,2,15 - 30 min,4,no,0.0,"Yoga, Yoga, Deep",real,video,0,0,0,1,0,0,0,0,1
+383,yoga foundations - non-attachment,rest,julie chinmayi,mind and body,beginner,1,6-15 min,3,no,0.0,"Emotional, Yoga",real,video,0,0,0,1,0,0,0,0,1
+366,yoga foundations - relaxation by julie,rest,julie chinmayi,"take a breath, mind and body",intermediate,2,15 - 30 min,4,no,0.0,"Yoga, Yoga, Deep",real,video,0,0,0,1,0,0,0,0,1

@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+{% block content %}
+<div>
+    <table class="table table-bordered border-primary">
+        {% for table in tables %}
+        <tr class="table-primary">
+        <h2> {{titles[loop.index]}} </h2>
+        </tr>
+        <tr class = "table-light">
+        {{table | safe}}
+        </tr>
+        {% endfor %}
+    </table>
+    
+</div>
+
+
+{% endblock %}
